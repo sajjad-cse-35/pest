@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "homepage": "https://pest.usaservicehub.com/",
+  "homepage": "https://pest.usaservice.site/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
