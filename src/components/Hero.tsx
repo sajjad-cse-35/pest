@@ -22,9 +22,9 @@ export function Hero() {
             <br />
             Fast & Reliable Service. Call Now
           </p>
-          <a href="tel:+18773990307" className="flex items-center justify-center bg-green-700 hover:bg-green-800 text-white font-bold px-6 py-3 rounded-lg mb-6 transition-colors duration-300 w-full md:w-auto shadow-md hover:shadow-xl transition-all transform hover:-translate-y-1">
+          <a href="tel:+18775894429" className="flex items-center justify-center bg-green-700 hover:bg-green-800 text-white font-bold px-6 py-3 rounded-lg mb-6 transition-colors duration-300 w-full md:w-auto shadow-md hover:shadow-xl transition-all transform hover:-translate-y-1">
             <PhoneCall size={20} className="mr-2" />
-            (877) 399-0307
+            (877) 589-4429
             {/* <span className="text-xs ml-2 opacity-90 font-medium">
               AVAILABLE 24/7
             </span> */} 
