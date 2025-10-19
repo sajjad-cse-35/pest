@@ -47,8 +47,8 @@ export function Header() {
         {/* CTA Button */}
         <div className="flex items-center space-x-4">
           <a
-            href="tel:+18773990307"
-            aria-label="Call (877) 399-0307"
+            href="tel:+18775894429"
+            aria-label="Call (877) 589-4429"
             className="hidden sm:inline-flex items-center space-x-2 bg-gradient-to-r from-green-600 to-green-700 py-3 px-6 rounded-xl shadow-md hover:shadow-lg transition-all hover:scale-105 group"
           >
             <PhoneCall size={18} className="text-white" />
@@ -92,8 +92,8 @@ export function Header() {
             </a>
 
             <a
-              href="tel:+18773990307"
-              aria-label="Call (877) 399-0307"
+              href="tel:+18775894429"
+              aria-label="Call (877) 589-4429"
               className="flex items-center space-x-2 bg-green-600 py-3 px-4 rounded-lg mt-2"
             >
               <PhoneCall size={18} className="text-white" />
