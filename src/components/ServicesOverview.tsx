@@ -116,9 +116,9 @@ export function ServicesOverview() {
               Connect with certified pest control experts in your area for a free, call now!!!.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-             <a href="tel:+18773990307" aria-label="Call (877) 764-5716" className="bg-gradient-to-r from-green-600 to-green-700 text-white py-4 px-8 rounded-xl font-medium flex items-center justify-center shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-1">
+             <a href="tel:+18775894429" aria-label="Call (877) 764-5716" className="bg-gradient-to-r from-green-600 to-green-700 text-white py-4 px-8 rounded-xl font-medium flex items-center justify-center shadow-lg hover:shadow-xl transition-all transform hover:-translate-y-1">
               <PhoneCall size={18} className="mr-2" />
-              Call (877) 399-0307
+              Call (877) 589-4429
             </a>
             </div>
           </div>
